@@ -1,0 +1,6 @@
+timestamp,user,file_name,action
+2026-09-18 09:05:00,user01,report.pdf,READ
+2026-09-18 09:10:00,user01,data.xlsx,READ
+2026-09-18 09:15:00,user01,employee_data.csv,READ
+2026-09-18 14:20:00,user01,confidential_db.sql,DOWNLOAD
+2026-09-18 14:21:00,user01,employee_records.csv,DOWNLOAD
